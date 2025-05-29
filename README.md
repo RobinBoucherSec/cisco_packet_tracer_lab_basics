@@ -1,4 +1,4 @@
-# cisco_packet_tracer_lab2
+# cisco_packet_tracer_lab
 
 
 ## 📝 Description
